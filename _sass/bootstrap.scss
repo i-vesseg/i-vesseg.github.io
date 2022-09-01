@@ -25,7 +25,7 @@
   --cyan: #3498db;
   --white: #fff;
   --gray: #888;
-  --gray-dark: #303030;
+  --gray-dark: #4d4d4d;
   --primary: #375a7f;
   --secondary: #444;
   --success: #00bc8c;
@@ -69,7 +69,7 @@ body {
   line-height: 1.5;
   color: #fff;
   text-align: left;
-  background-color: #222;
+  background-color: #4d4d4d;
 }
 
 [tabindex="-1"]:focus:not(:focus-visible) {
@@ -84,6 +84,7 @@ hr {
 }
 
 h1, h2, h3, h4, h5, h6 {
+  color: #e6e3c4;
   margin-top: 0;
   margin-bottom: 0.5rem;
 }
@@ -162,13 +163,13 @@ sup {
 }
 
 a {
-  color: #00bc8c;
+  color: #66bf8c;
   text-decoration: none;
   background-color: transparent;
 }
 
 a:hover {
-  color: #007053;
+  color: #174b3f;
   text-decoration: underline;
 }
 
@@ -2835,8 +2836,8 @@ fieldset:disabled a.btn {
 
 .btn-success {
   color: #fff;
-  background-color: #00bc8c;
-  border-color: #00bc8c;
+  background-color: #00cc7a;
+  border-color: #00cc7a;
 }
 
 .btn-success:hover {
@@ -2913,8 +2914,8 @@ fieldset:disabled a.btn {
 
 .btn-warning {
   color: #fff;
-  background-color: #f39c12;
-  border-color: #f39c12;
+  background-color: #ffad00;
+  border-color: #ffad00;
 }
 
 .btn-warning:hover {
@@ -2952,8 +2953,8 @@ fieldset:disabled a.btn {
 
 .btn-danger {
   color: #fff;
-  background-color: #e74c3c;
-  border-color: #e74c3c;
+  background-color: #ff1447;
+  border-color: #ff1447;
 }
 
 .btn-danger:hover {

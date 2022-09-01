@@ -1,15 +1,15 @@
 # Site settings
-title: Dr. Spencer Bryngelson
-email: spencer@caltech.edu
-description: Academic webpage of Dr. Spencer H. Bryngelson
+title: ACME Group at CMU
+email: rkurchin@cmu.edu
+description: Website of ACME Group at Carnegie Mellon Materials Science and Engineering
 baseurl: ""
 url: ""
 
 
 # Google analytics ID: Remove or use your own!
-google_analytics: UA-167467135-1
-google_analytics_4: G-02KDGRRB2T
-google_tag_manager: GTM-TZ9Z7HZ
+#google_analytics: UA-167467135-1
+#google_analytics_4: G-02KDGRRB2T
+#google_tag_manager: GTM-TZ9Z7HZ
 
 # Footer info
 affiliation: >
@@ -32,11 +32,9 @@ contact: >
 nav_pages:
   - name: about
   - name: publications
-  - name: talks
   - name: research
   - name: software
-# - name: team
-# - name: teaching
+  - name: team
 
 include:
   - .htaccess
@@ -66,8 +64,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Bryngelson
-  first_name: [Spencer H.]
+  last_name: Kurchin
+  first_name: [Rachel C.]
 
   style: shb
   locale: en
