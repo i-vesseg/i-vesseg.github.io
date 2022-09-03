@@ -23,11 +23,10 @@ information: >
 
 # Pages shown in navbar
 nav_pages:
-  - name: about
+  - name: team
   - name: publications
   - name: research
   - name: software
-  - name: team
 
 include:
   - .htaccess
