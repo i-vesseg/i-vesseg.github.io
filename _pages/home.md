@@ -1,33 +1,56 @@
 ---
 title: "Home"
-layout: homelay
+layout: default
 sitemap: false
 permalink: /
 ---
 
-### Welcome!
+<div id="homeid" class="col-sm-7 col-xs-12">
 
-New medical devices and therapies stand to improve human health outcomes the world over.
-Though innovating in this space is challenging, predictive simulations provide a promising path forward.
-I am a **computational scientist** who clears these paths via new data-driven models, algorithms, and extreme-scale software.
-Recent examples include the <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-IJMF-20.pdf" target="_blank">most efficient sub-grid model</a> for simulating cavitation, a <a href="{{ site.url }}{{ site.baseurl }}/papers/bryngelson-PRE-19.pdf" target="_blank">low-order model</a> for cell-scale blood flow, and <a href="https://mfc-caltech.github.io/" target="_blank">MFC</a>, my open-source multi-phase flow solver.
-These developments guide biomicrofluidic device design and improve treatment outcomes (e.g. burst-wave <a href="https://www.hopkinsmedicine.org/health/treatment-tests-and-therapies/lithotripsy" target="_blank">lithotripsy</a>).
+## Welcome!
 
-<div class="container">
-<div class="row">
-<center>
-<iframe src="https://player.vimeo.com/video/455688517?autoplay=1&loop=1&autopause=0&muted=1&quality=360p&background=1" width="100%" style="border-style:solid;border-radius:5px;" frameborder="0" allow="autoplay"></iframe>
-Transition to chaos of flowing red blood cells. <br/>
-Bryngelson & Freund, <i>Phys. Rev. Fluids</i> (2018)
-</center>
+Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
+
+### ACME?!?
+ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or
+something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
+
+And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seri
+ously all the time, and we always remember to find joy and laughter in work and life.
+
+## Our Work
+We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications. Stay tuned for more details as this site gets updated!
+
+</div>
+<div id="newsid" class="col-sm-5 col-xs-12" >
+<div>
+{% for member in site.data.pi %}
+<div class="jumbotron">
+   <center>
+<!-- <a href="{{site.url}}{{site.baseurl}}/team"><img src="{{site.url}}{{site.baseurl}}/images/teampic/{{ member.photo }}" width="50%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a> -->
+   <h5>PI: {{ member.name }}</h5>
+   <h6>{{ member.info }}</h6>
+   <div style="margin-bottom:5px">
+   {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
+   {% if member.gt %}<a href="{{ member.gt }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %}
+   {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
+   {% if member.cv %} <a href="{{ site.url }}{{ site.baseurl }}/{{ member.cv }}" target="_blank"><i class="ai ai-cv-square ai-2x"></i></a> {% endif %}
+   {% if member.scholar %} <a href="{{ member.scholar }}" target="_blank"><i class="ai ai-google-scholar-square ai-2x"></i></a> {% endif %}
+   {% if member.github %} <a href="{{ member.github }}" target="_blank"><i class="fa fa-github-square fa-2x"></i></a> {% endif %}
+   {% if member.website %} <a href="{{ member.website }}" target="_blank"><i class="fa fa-external-link-square fa-2x"></i></a> {% endif %}
+  </div>
+  </center>
+</div>
+{% endfor %}
+</div>
+
+<div class="jumbotron">
+<h2>News</h2>
+  {% for article in site.data.news limit:7%}
+  <b>{{ article.date }}</b>
+    {{ article.headline }}
+  {% endfor %}
+  
+  <h5><a href="{{ site.url }}{{ site.baseurl }}/allnews.html">... see all News</a></h5>
 </div>
 </div>
-<br/>
-
-### About me
-
-I am a Senior Postdoctoral Scholar at the California Institute of Technology, working with <a href="https://www.colonius.caltech.edu/" target="_blank">Professor Tim Colonius</a>.
-I also work with <a href="http://sandlab.mit.edu/" target="_blank">Professor Themis Sapsis</a> at the Massachusetts Institute of Technology on machine-learned model closures.
-Previously, I was a Postdoctoral Researcher at the <a href="https://xpacc.illinois.edu/" target="_blank">Center for Exascale Simulation of Plasma-Coupled Combustion</a> (XPACC).
-I have a Ph.D. and M.S. in <a href="https://mechanical.illinois.edu/graduate/graduate-degree-programs/phd-programs/phd-theoretical-and-applied-mechanics" target="_blank">Theoretical and Applied Mechanics</a> from the University of Illinois at Urbana–Champaign (2017 and 2015), where I worked with <a href="https://aerospace.illinois.edu/directory/profile/jbfreund" target="_blank">Professor Jonathan Freund</a>.
-I hold B.S. degrees in Mechanical Engineering and Mathematics from the University of Michigan–Dearborn (2013).
