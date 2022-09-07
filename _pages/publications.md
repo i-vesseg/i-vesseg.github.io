@@ -23,6 +23,7 @@ years: [2016, 2017, 2018, 2019, 2020, 2021]
 
 <div class="jumbotron">
 ### Refereed journal articles
+Feel free to [email Rachel](mailto:rkurchin@cmu.edu) for a PDF copy of any of these!
 {% bibliography --query @article %}
 </div>
 
