@@ -18,6 +18,8 @@ something is best, perfect, or most successful," (per the OED) reminding us of w
 And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seri
 ously all the time, and we always remember to find joy and laughter in work and life.
 
+You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl }}/values).
+
 ## Our Work
 We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications. Stay tuned for more details as this site gets updated!
 
