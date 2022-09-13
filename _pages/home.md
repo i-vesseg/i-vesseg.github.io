@@ -12,11 +12,9 @@ permalink: /
 Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
 
 ### ACME?!?
-ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or
-something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
+ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
 
-And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seri
-ously all the time, and we always remember to find joy and laughter in work and life.
+And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seriously all the time, and we always remember to find joy and laughter in work and life.
 
 You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl }}/values).
 
