@@ -25,7 +25,7 @@ The prior section can be thought of as setting out expectations that everyone in
 #### What YOU (a mentee) can expect of ME (Rachel)
 * To be available to you as a mentor in a generally timely fashion
 * To set clear and reasonable expectations about your progress in your work
-* To provide the resoureces (financial, computational, physical, professional) you need to be successful in that work
+* To provide the resources (financial, computational, physical, professional) you need to be successful in that work
 * To be attentive to your long-term career goals and help you work towards realizing them
 
 #### What I (Rachel) expect of YOU (a mentee)

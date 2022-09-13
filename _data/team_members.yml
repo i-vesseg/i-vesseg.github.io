@@ -1,8 +1,10 @@
 - name: "This could be you !"
   photo: roadrunner.jpeg
   info: See <a href="www">openings</a> for more info
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+  email: 
+  linkedin: 
+  researchgate: 
+  website: 
+  twitter:
+  cv:
+  scholar: 
