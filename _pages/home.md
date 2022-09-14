@@ -29,8 +29,10 @@ We are a computational materials science group in the Materials Science Departme
    <center>
 <!-- <a href="{{site.url}}{{site.baseurl}}/team"><img src="{{site.url}}{{site.baseurl}}/images/teampic/{{ member.photo }}" width="50%" style="block:inline; margin-left:auto; margin-right:auto; margin-bottom:5px;"/></a> -->
    <h5>PI: {{ member.name }}</h5>
-   <h6>{{ member.info }}</h6>
-   <div style="margin-bottom:5px">
+   <h6>{{ member.info1 }}</h6>
+   <h7>{{ member.info2 }}</h7><br>
+   <h7>{{ member.info3 }}</h7>
+<div style="margin-bottom:5px">
    {% if member.twitter %}<a href="{{ member.twitter }}" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a> {% endif %}
    {% if member.cmu %}<a href="{{ member.cmu }}" target="_blank"><i class="ai ai-archive-square ai-2x"></i></a> {% endif %}
    {% if member.email %}<a href="mailto:{{ member.email }}" target="_blank"><i class="fa fa-envelope-square fa-2x"></i></a> {% endif %}
