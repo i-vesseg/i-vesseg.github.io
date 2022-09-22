@@ -17,7 +17,7 @@ task :generate do
 end
 
 
-desc "Generate and publish blog to gh-pages"
+desc "Generate and publish site to gh-pages"
 task :publish => [:generate] do
   Dir.mktmpdir do |tmp|
     cp_r "_site/.", tmp
@@ -29,8 +29,8 @@ task :publish => [:generate] do
     system "git add ."
     message = "Site updated at #{Time.now.utc}"
     system "git commit -m #{message.inspect}"
-    system "git remote add origin git@github.com:sbryngelson/bryngelson_personal_template.git"
-    system "git push origin master --force"
+    system "git remote add origin https://github.com/ACME-group-CMU/ACMEgroup.git"
+    system "git push origin publish --force"
 
     Dir.chdir pwd
   end
