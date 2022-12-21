@@ -10,10 +10,12 @@ permalink: /
 ## Welcome!
 
 <center>
-<img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group.jpg" width="100%">
-</center>
+ <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group.jpg" width="100%"> -->
+</center> 
 <p></p>
-Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
+This site is currently under construction. It will host the webpage of the ANR JCJC project I-VESSEG. Stay tuned!
+
+<!-- Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
 
 ### ACME?!?
 ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
@@ -24,7 +26,7 @@ You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl
 
 ## Our Work
 We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications. Stay tuned for more details as this site gets updated!
-
+-->
 </div>
 <div id="newsid" class="col-sm-5 col-xs-12" >
 <div>
