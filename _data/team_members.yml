@@ -1,76 +1,10 @@
-- name: Andrew Timmins
-  photo: andrew.jpg
+- name: Francesco Galati
+  photo: galati.jpg
   info: PhD Materials Science and Engineering
-  email: atimmins@andrew.cmu.edu
-  linkedin: https://www.linkedin.com/in/atimmins
-  researchgate: 
-  website: 
-  twitter: 
-  cv:
-  scholar:
-
-- name: Jeremy "J." Drew
-  photo: 
-  info: PhD Materials Science and Engineering
-  email: jdrew@andrew.cmu.edu
-  linkedin: https://www.linkedin.com/in/jeremy-drew-a02010116
-  researchgate: 
-  website: 
-  twitter: 
-  cv:
-  scholar:
-  
-- name: Xiaoxiao "Lory" Wang
-  photo: LoryW.jpg
-  info: PhD Chemical Engineering
-  email: xiaoxia3@andrew.cmu.edu
-  linkedin: https://www.linkedin.com/in/xiaoxiao-wang-lory/
-  researchgate: 
-  website: 
-  twitter: 
-  cv:
-  scholar:
-
-- name: Rochan Bajpai	
-  photo: rochan.jpg
-  info: MS Artificial Intelligence Engineering - Materials Science and Engineering
-  email: rbajpai@andrew.cmu.edu	
-  linkedin: https://www.linkedin.com/in/rochan-bajpai
-  researchgate: 
-  website: 
-  twitter: https://twitter.com/RochanBajpai
-  cv:
-  scholar:
-
-- name: Tzu-Hsuan (Sandy) Chen
-  photo: sandy.jpeg
-  info: MS Computational Materials Science and Engineering
-  email: tzuhsuac@andrew.cmu.edu	
-  linkedin: https://www.linkedin.com/in/tzuhsuan-chen
-  researchgate: 
-  website: 
-  twitter: 
-  cv:
-  scholar:
-
-- name: Yuelin Huang
-  photo: yuelin_huang.jpg
-  info: MS Research Materials Science and Engineering
-  email: yuelinh@andrew.cmu.edu	
+  email: galati@eurecom.fr
   linkedin: 
   researchgate: 
-  website: 
   twitter: 
   cv:
-  scholar:
-
-- name: "This could be you!"
-  photo: roadrunner.jpeg
-  info: See <a href="/vacancies.html">openings</a> for more info
-  email: 
-  linkedin: 
-  researchgate: 
-  website: 
-  twitter:
-  cv:
-  scholar: 
+  scholar: https://scholar.google.com/citations?hl=fr&user=PxEZk_cAAAAJ
+  cmu: https://www.eurecom.fr/en/people/galati-francesco 

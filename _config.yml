@@ -12,11 +12,11 @@ url: ""
 
 # Footer info
 about: >
-    Data Science Department
+    Data Science Department<br/>
     <a href="https://www.eurecom.fr" target="_blank">EURECOM</a><br/>
 
 information: >
-    <a href="mailto:zuluaga@eurecom.fr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Maria via email</a> <br/>
+    <a href="mailto:zuluaga@eurecom.fr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact I-VESSEG via email</a> <br/>
     <a href="/vacancies.html"><i class="fa fa-users fa-1x"></i> Explore openings</a> <br/>
     <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
