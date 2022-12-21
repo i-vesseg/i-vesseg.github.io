@@ -2,43 +2,44 @@
   photo: rosa.png
   info: Università di Siena
   email: rosa.cortese@unisi.it	
-  linkedin: https://www.linkedin.com/in/rochan-bajpai
+  linkedin: 
   researchgate: 
   website: 
-  twitter: https://twitter.com/RochanBajpai
+  twitter: https://twitter.com/rosacortese5
   cv:
   scholar:
+  cmu: https://en.unisi.it/ugov/person/164444
 
 - name: Benjamin Lemasson
   photo: benjamin.jpg
   info: Grenoble Institut des Neurosciences
-  email: xiaoxia3@andrew.cmu.edu
-  linkedin: https://www.linkedin.com/in/xiaoxiao-wang-lory/
+  email: benjamin.lemasson@univ-grenoble-alpes.fr
+  linkedin: https://fr.linkedin.com/in/benjamin-lemasson-618260b3
   researchgate: 
   website: 
   twitter: 
   cv:
-  scholar:
+  scholar: https://scholar.google.fr/citations?user=XRox3akAAAAJ&hl=fr
   
 - name: Marco Lorenzi
   photo: marco.jpg
   info: INRIA Sophia Antipolis
-  email: jdrew@andrew.cmu.edu
-  linkedin: https://www.linkedin.com/in/jeremy-drew-a02010116
+  email: marco.lorenzi@inria.fr
+  linkedin: https://fr.linkedin.com/in/marco-lorenzi-45105785
   researchgate: 
   website: 
   twitter: 
   cv:
-  scholar:
+  scholar: https://scholar.google.fr/citations?hl=fr&user=gOkjmJcAAAAJ
   
 - name: Ferran Prados
   photo: ferran.jpg
   info: University College London
-  email: tzuhsuac@andrew.cmu.edu	
-  linkedin: https://www.linkedin.com/in/tzuhsuan-chen
+  email: fpradosc@uoc.edu
+  linkedin: https://www.linkedin.com/in/ferran-prados-66492999/
   researchgate: 
   website: 
   twitter: 
   cv:
-  scholar:
+  scholar: https://scholar.google.fr/citations?hl=fr&user=zeqwTBgAAAAJ
 
