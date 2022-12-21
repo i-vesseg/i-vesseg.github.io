@@ -1,12 +1,12 @@
-- name: Dr. Rachel C. Kurchin
-  photo: rachel.jpg
-  info1: Assistant Research Professor, Carnegie Mellon Materials Science and Engineering  
-  info2: Faculty affiliate, <a href="https://www.cmu.edu/energy">Scott Institute for Energy Innovation</a>
-  info3: Member, <a href="https://www.pqi.org/">Pittsburgh Quantum Institute</a>
-  email: rkurchin@cmu.edu
-  github: https://github.com/rkurchin
-  scholar: https://scholar.google.com/citations?user=CSHe53oAAAAJ&hl=en
+- name: Dr. Maria A. Zuluaga
+  photo: maria.jpeg
+  info1: Assistant Professor, EURECOM  
+  info2: Data Science Department
+  info3: Junior Chair, 3IA Institute
+  email: zuluaga@eurecom.fr
+  github: https://github.com/maria.zuluaga
+  scholar: https://scholar.google.com/citations?user=0SaJdxQAAAAJ&hl=en
   cv: cv/CV_Kurchin.pdf
-  website: https://rkurchin.github.io/
-  twitter: https://twitter.com/rachel_kurchin
-  cmu: https://www.cmu.edu/engineering/materials/people/faculty/bios/kurchin.html 
+  website: https://www.eurecom.fr/~zuluaga
+  twitter: https://twitter.com/marazul
+  cmu: https://www.eurecom.fr/en/people/zuluaga-maria 

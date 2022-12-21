@@ -1,7 +1,7 @@
 # Site settings
-title: ACME Group at CMU
-email: rkurchin@cmu.edu
-description: Website of ACME Group at Carnegie Mellon Materials Science and Engineering
+title: ANR JCJC I-VESSEG
+email: maria.zuluaga@eurecom.fr
+description: Website of the ANR JCJC Project I-VESSEG
 baseurl: ""
 url: ""
 
@@ -12,12 +12,11 @@ url: ""
 
 # Footer info
 about: >
-    <a href="https://www.cmu.edu/engineering/materials/" target="_blank">Department of Materials Science and Engineering</a><br/>
-    <a href="https://engineering.cmu.edu/" target="_blank">College of Engineering</a><br/>
-    <a href="https://www.cmu.edu/" target="_blank">Carnegie Mellon University</a><br/>
+    Data Science Department
+    <a href="https://www.eurecom.fr" target="_blank">EURECOM</a><br/>
 
 information: >
-    <a href="mailto:rkurchin@cmu.edu" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Rachel via email</a> <br/>
+    <a href="mailto:zuluaga@eurecom.fr" target="_blank"><i class="fa fa-envelope fa-1x"></i> Contact Maria via email</a> <br/>
     <a href="/vacancies.html"><i class="fa fa-users fa-1x"></i> Explore openings</a> <br/>
     <a href="/aboutwebsite.html"><i class="fa fa-github fa-1x"></i> Use this site as a template!</a>
 
@@ -56,8 +55,8 @@ plugins: ['jekyll/scholar']
 
 scholar:
 
-  last_name: Kurchin
-  first_name: [Rachel C.]
+  last_name: Zuluaga
+  first_name: [Maria A.]
 
   style: shb
   locale: en
