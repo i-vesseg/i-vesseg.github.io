@@ -7,26 +7,25 @@ permalink: /
 
 <div id="homeid" class="col-sm-7 col-xs-12">
 
-## Welcome!
+## I-VESSEG:
+#### Interactive and Collaborative Learning for Vessel Segmentation
 
 <center>
  <!-- <img src="{{ site.url }}{{ site.baseurl }}/images/teampic/group.jpg" width="100%"> -->
 </center> 
 <p></p>
-This site is currently under construction. It will host the webpage of the ANR JCJC project I-VESSEG. Stay tuned!
+I-VESSEG is an [ANR JCJC](https://anr.fr/en/call-for-proposals-details/call/programme-jeunes-chercheuses-et-jeunes-chercheurs-jcjc/) funded project that aims to develop a novel interactive and collaborative learning-based framework to close the gap that hampers the use of 3D vessel segmentation tools in clinical routine. 
 
-<!-- Welcome to our group's page! Feel free to take a look around. The site is still under construction; so check back for new content soon!
+The project will tackle three problems: 
+1. The difficulty to collect large representative training samples.
+2. The burden associated to manual labelling.
+3. The poor generalization and reproducibility of current vessel extraction approaches. 
 
-### ACME?!?
-ACME stands for **A**ccelerated **C**omputation of **M**aterials for **E**nergy. The word "acme" also refers to "the point at which someone or something is best, perfect, or most successful," (per the OED) reminding us of what we can strive for in our work every day.
+##### Clinical Use Cases
+The final goal of I-VESSEG is to assure clinical translation. Its clinical value will be demonstrated in two clinical use cases: 
+* **Multiple sclerosis (MS):** I-VESSEG will be used to estimate the central vein sign, an imaging biomarker in MS which refers to a vein visualized inside a white matter lesion on susceptibility-weighted images.
+* **Stroke:** The I-VESSEG framework will assist the analysis of the cerebrovascular tree anatomy to detect intracranial stenosis, a major risk factor for stroke.
 
-And finally, the ACME Corporation from Looney Tunes reminds us that while we set high standards for ourselves, we can't take ourselves too seriously all the time, and we always remember to find joy and laughter in work and life.
-
-You can read more about our group's culture [here]({{ site.url }}{{ site.baseurl }}/values).
-
-## Our Work
-We are a computational materials science group in the Materials Science Department in the Carnegie Mellon School of Engineering, led by Prof. Rachel Kurchin. We focus on simulation and data-driven methods that can accelerate development and understanding of materials for a variety of clean energy applications. Stay tuned for more details as this site gets updated!
--->
 </div>
 <div id="newsid" class="col-sm-5 col-xs-12" >
 <div>
