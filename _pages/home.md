@@ -24,7 +24,7 @@ The project will tackle three problems:
 ##### Clinical Use Cases
 The final goal of I-VESSEG is to assure clinical translation. Its clinical value will be demonstrated in two clinical use cases: 
 * **Multiple sclerosis (MS):** I-VESSEG will be used to estimate the central vein sign, an imaging biomarker in MS which refers to a vein visualized inside a white matter lesion on susceptibility-weighted images.
-* **Stroke:** The I-VESSEG framework will assist the analysis of the cerebrovascular tree anatomy to detect intracranial stenosis, a major risk factor for stroke.
+* **Stroke:** I-VESSEG will assist the analysis of the cerebrovascular tree anatomy to detect intracranial stenosis, a major risk factor for stroke.
 
 </div>
 <div id="newsid" class="col-sm-5 col-xs-12" >
