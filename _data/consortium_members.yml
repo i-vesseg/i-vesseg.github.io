@@ -15,11 +15,12 @@
   info: Grenoble Institut des Neurosciences
   email: benjamin.lemasson@univ-grenoble-alpes.fr
   linkedin: https://fr.linkedin.com/in/benjamin-lemasson-618260b3
-  researchgate: 
-  website: 
-  twitter: 
+  researchgate: https://www.researchgate.net/profile/Benjamin-Lemassons
+  website: https://neurosciences.univ-grenoble-alpes.fr/fr/annuaire/m-benjamin-lemasson-617667.kjsp
+  twitter: https://twitter.com/benlemasson
   cv:
   scholar: https://scholar.google.fr/citations?user=XRox3akAAAAJ&hl=fr
+  cmu: https://neurosciences.univ-grenoble-alpes.fr/
   
 - name: Marco Lorenzi
   photo: marco.jpg
@@ -34,7 +35,7 @@
   
 - name: Ferran Prados
   photo: ferran.jpg
-  info: University College London
+  info: University College London & Universitat Oberta de Catalunya
   email: fpradosc@uoc.edu
   linkedin: https://www.linkedin.com/in/ferran-prados-66492999/
   researchgate: 
