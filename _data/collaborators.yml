@@ -1,0 +1,47 @@
+- name: Barbara Casolla
+  photo: barbara.jpg
+  info: CHU Nice
+  email: casolla.b@chu-nice.fr
+  linkedin: 
+  researchgate: 
+  website: 
+  twitter: https://twitter.com/BarbaraCasolla
+  cv:
+  scholar: https://scholar.google.com/citations?user=rgNluHkAAAAJ
+  
+
+- name: Benjamin Lemasson
+  photo: benjamin.jpg
+  info: Grenoble Institut des Neurosciences
+  email: benjamin.lemasson@univ-grenoble-alpes.fr
+  linkedin: https://fr.linkedin.com/in/benjamin-lemasson-618260b3
+  researchgate: https://www.researchgate.net/profile/Benjamin-Lemassons
+  website: https://neurosciences.univ-grenoble-alpes.fr/fr/annuaire/m-benjamin-lemasson-617667.kjsp
+  twitter: https://twitter.com/benlemasson
+  cv:
+  scholar: https://scholar.google.fr/citations?user=XRox3akAAAAJ&hl=fr
+  cmu: https://neurosciences.univ-grenoble-alpes.fr/
+  
+- name: Marco Lorenzi
+  photo: marco.jpg
+  info: INRIA Sophia Antipolis
+  email: marco.lorenzi@inria.fr
+  linkedin: https://fr.linkedin.com/in/marco-lorenzi-45105785
+  researchgate: 
+  website: https://marcolorenzi.github.io
+  twitter: 
+  cv:
+  scholar: https://scholar.google.fr/citations?hl=fr&user=gOkjmJcAAAAJ
+  cmu: https://fedbiomed.gitlabpages.inria.fr/
+  
+- name: Ferran Prados
+  photo: ferran.jpg
+  info: University College London & Universitat Oberta de Catalunya
+  email: fpradosc@uoc.edu
+  linkedin: https://www.linkedin.com/in/ferran-prados-66492999/
+  researchgate: 
+  website: 
+  twitter: 
+  cv:
+  scholar: https://scholar.google.fr/citations?hl=fr&user=zeqwTBgAAAAJ
+
